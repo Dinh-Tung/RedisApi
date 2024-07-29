@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/ApiRedis/ApplicationServices/implements/CacheService.cs;D:/plugin/ApiRedis/ApiRedis/ApplicationServices/Interfaces/ICacheService.cs;D:/plugin/ApiRedis/ApiRedis/Controllers/WeatherForecastController.cs;D:/plugin/ApiRedis/ApiRedis/DatabaseContext/DbContextClass.cs;D:/plugin/ApiRedis/ApiRedis/Models/Product.cs;D:/plugin/ApiRedis/ApiRedis/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs;D:/plugin/ApiRedis/ApiRedis/obj/Debug/net7.0/ApiRedis.AssemblyInfo.cs;D:/plugin/ApiRedis/ApiRedis/obj/Debug/net7.0/ApiRedis.GlobalUsings.g.cs;D:/plugin/ApiRedis/ApiRedis/obj/ApiRedis.csproj.nuget.dgspec.json;D:/plugin/ApiRedis/ApiRedis/obj/project.assets.json;D:/plugin/ApiRedis/ApiRedis/obj/project.packagespec.json;D:/plugin/ApiRedis/ApiRedis/Properties/launchSettings.json;D:/plugin/ApiRedis/ApiRedis/appsettings.Development.json;D:/plugin/ApiRedis/ApiRedis/appsettings.json;D:/plugin/ApiRedis/ApiRedis/Program.cs;D:/plugin/ApiRedis/ApiRedis/WeatherForecast.cs" />
+  </component>
+</project>
